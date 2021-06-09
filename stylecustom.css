@@ -1,4 +1,7 @@
-.me{
-    width: 30px;
-    height: 30px;
+/* .ml-auto, mx-auto{ */
+   /* margin-left: auto !important; */
+/* } */
+
+.navbar-nav{
+    margin-left: auto;
 }
