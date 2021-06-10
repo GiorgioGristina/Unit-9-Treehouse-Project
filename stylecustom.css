@@ -5,3 +5,9 @@
 .navbar-nav{
     margin-left: auto;
 }
+
+.me{
+    width: 125px;
+    height: 125px;
+    border-radius: 50% 50%;
+}
